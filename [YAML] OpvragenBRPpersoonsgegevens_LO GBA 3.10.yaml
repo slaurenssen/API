@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
   description: Specificatie StUF Json opvragen persoonsgegevens
-  version: 1.0.0
-  title: NNP
+  version: LO GBA 3.10.
+  title: NPS
   contact: {}
 host: zaaksysteem.greenvalley.nl
 basePath: /bg
